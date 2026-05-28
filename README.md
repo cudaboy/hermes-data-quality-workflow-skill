@@ -30,13 +30,13 @@ skills/
 Inspect first:
 
 ```bash
-hermes skills inspect https://raw.githubusercontent.com/<YOUR_GITHUB_USERNAME>/hermes-data-quality-workflow-skill/main/skills/data-quality-workflow/SKILL.md
+hermes skills inspect https://raw.githubusercontent.com/cudaboy/hermes-data-quality-workflow-skill/main/skills/data-quality-workflow/SKILL.md
 ```
 
 Install directly from the raw GitHub URL:
 
 ```bash
-hermes skills install https://raw.githubusercontent.com/<YOUR_GITHUB_USERNAME>/hermes-data-quality-workflow-skill/main/skills/data-quality-workflow/SKILL.md
+hermes skills install https://raw.githubusercontent.com/cudaboy/hermes-data-quality-workflow-skill/main/skills/data-quality-workflow/SKILL.md
 ```
 
 After installation, load it explicitly in a session:
